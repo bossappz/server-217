@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"0427cf0c08d34984a315fa9b3bc1ed51","collectionName":"app_money_notez_list","type":"collection"}
